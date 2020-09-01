@@ -1,0 +1,26 @@
+{
+  "name": "@sackrin/useglobalcommon",
+  "version": "0.0.1",
+  "description": "common helpers to assist with the global state hooks libraries",
+  "author": "Hilary <h.t.osborne@gmail.com>",
+  "homepage": "https://github.com/sackrin/global-hooks#readme",
+  "license": "ISC",
+  "main": "lib/useGlobalCommon.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sackrin/global-hooks.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/sackrin/global-hooks/issues"
+  }
+}
