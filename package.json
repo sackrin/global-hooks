@@ -31,8 +31,8 @@
     "typescript": "^4.0.2"
   },
   "dependencies": {
+    "useglobalcommon": "file:packages/useGlobalCommon",
     "useglobalcallback": "file:packages/useGlobalCallback",
-    "useglobalmemo": "file:packages/useGlobalMemo",
     "useglobalreducer": "file:packages/useGlobalReducer",
     "useglobalstate": "file:packages/useGlobalState"
   }

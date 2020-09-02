@@ -1,11 +1,11 @@
 {
-  "name": "@sackrin/useglobalcommon",
-  "version": "0.1.0",
-  "description": "common helpers to assist with the global state hooks libraries",
+  "name": "useglobalcallback",
+  "version": "0.0.1",
+  "description": "> TODO: description",
   "author": "Hilary <h.t.osborne@gmail.com>",
   "homepage": "https://github.com/sackrin/global-hooks#readme",
   "license": "ISC",
-  "main": "lib/useGlobalCommon.js",
+  "main": "lib/useGlobalCallback.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -13,9 +13,6 @@
   "files": [
     "lib"
   ],
-  "dependencies": {
-    "@sackrin/useglobalcommon": "^0.1.0"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sackrin/global-hooks.git"
