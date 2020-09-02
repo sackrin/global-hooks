@@ -1,6 +1,6 @@
 {
   "name": "useglobalstate",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "extension of the react usestate hook to use the window to communicate between components",
   "author": "Hilary <h.t.osborne@gmail.com>",
   "homepage": "https://github.com/sackrin/global-hooks#readme",
@@ -14,7 +14,7 @@
     "lib"
   ],
   "dependencies": {
-    "@sackrin/useglobalcommon": "^0.1.0"
+    "@sackrin/useglobalcommon": "^0.2.0"
   },
   "repository": {
     "type": "git",
